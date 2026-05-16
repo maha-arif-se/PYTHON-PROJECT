@@ -96,13 +96,7 @@ catch.wav
 Run the game:
 
 
-python game.py
-
-
-Run the game:
-
-
-python game.py
+python game.py or py.game.py
 
 
 📸 Gameplay
