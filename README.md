@@ -79,13 +79,29 @@ Make sure all files are in the same folder:
 
 
 game.py
+
+
 ball.jpg
+
+
 rectangle.png
+
+
 background.jpg
+
+
 catch.wav
+
+
 Run the game:
+
+
 python game.py
+
+
 Run the game:
+
+
 python game.py
 
 
